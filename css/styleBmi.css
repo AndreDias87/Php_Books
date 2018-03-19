@@ -1,0 +1,28 @@
+#imagecontent{max-width: 150px; height:auto;}
+#imageDetails{max-width: 550px; height:auto; padding:12px; }
+
+
+.imageDetails h2{
+    font: 0.7em Tahoma, sans-serif;
+    font-size:22px;
+    font-weight:bold;
+	color:#CC0000;
+}
+.imageDetails h3{
+    font: 0.7em Tahoma, sans-serif;
+    font-size:22px;
+    font-weight:bold;
+	color:gray;
+}
+.imageDetails h4{
+    font: 0.7em Tahoma, sans-serif;
+    font-size:22px;
+    font-weight:bold;
+	color:black;
+}
+.imageDetails h5{
+    font: 0.7em Tahoma, sans-serif;
+    font-size:18px;
+    font-weight:bold;
+	color:black;
+}
